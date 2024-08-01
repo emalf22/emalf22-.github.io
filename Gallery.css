@@ -1,0 +1,17 @@
+.flex-container {
+display: flex;
+margin: 100px;
+}
+{.flex-item1, .flex-item2, .flex-item3, .flex-item4
+height: 25em;
+margin: 20px;
+}
+img {
+    width: 300px;
+}
+h1{
+    color: #9A031E;
+}
+body {
+    background-color: #FB8B24
+}
